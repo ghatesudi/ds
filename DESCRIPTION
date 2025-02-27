@@ -1,0 +1,17 @@
+Package: descriptivestatistics
+Type: Package
+Title: Provides descriptive statistics
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "s", "g",
+      email = "sudeep1129@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
